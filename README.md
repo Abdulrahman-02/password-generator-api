@@ -28,3 +28,10 @@ The API will return a JSON object containing the generated password:
     "password": "3+QI0J0k3GB8brpo"
 }
 `
+## TO-DO
+
+- Add input validation
+- Add error handling
+- Add rate limiting
+- Add authentication and authorization
+- Improve password generation
