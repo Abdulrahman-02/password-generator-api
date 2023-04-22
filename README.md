@@ -1,6 +1,6 @@
 # password-generator-api
 
- RESTful API with Golang that generates strong passwords
+ RESTful API with Golang & Python that generates strong passwords
 
 ## Installation
 
